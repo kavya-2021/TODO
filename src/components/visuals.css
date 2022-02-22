@@ -1,0 +1,23 @@
+#visualDiv{ 
+    border: 2px solid teal;
+    padding : 1% 2%;
+    margin : auto;
+    margin-top: 20px;
+    width:80%;
+}
+
+#todoTable{
+    width:95%;
+    margin : auto;
+    border: 2px solid tomato;
+    margin-top: 10px;
+    text-align: center;
+}
+
+#todoTable > tbody > tr>td,#todoTable > thead > tr>td{
+    margin : auto;
+    border: 2px solid tomato;
+    margin-top: 10px;
+    text-align: center;
+}
+

@@ -1,0 +1,40 @@
+{
+  "todos": [
+    {
+      "title": "IM round2 ",
+      "description": "prepare for the interview",
+      "status": false,
+      "id": 1
+    },
+    {
+      "title": "call Jeevan",
+      "description": "on monday 2pm",
+      "status": true,
+      "id": 2
+    },
+    {
+      "title": "context api assignment",
+      "description": "context api class is of 2hrs and complete only if concepts are clear ",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "Redux react Todo",
+      "description": "almost done with the assignment only pending is regarding the description page",
+      "status": true,
+      "id": 4
+    },
+    {
+      "title": "Taplingua",
+      "description": "do it on monday, 2 videos per question",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "contest for graphs 2",
+      "description": "need to watch 2 lectures and do 2 assignments",
+      "status": false,
+      "id": 6
+    }
+  ]
+}
