@@ -3,14 +3,8 @@
     {
       "title": "IM round2 ",
       "description": "prepare for the interview",
-      "status": false,
-      "id": 1
-    },
-    {
-      "title": "call Jeevan",
-      "description": "on monday 2pm",
       "status": true,
-      "id": 2
+      "id": 1
     },
     {
       "title": "context api assignment",
@@ -33,8 +27,20 @@
     {
       "title": "contest for graphs 2",
       "description": "need to watch 2 lectures and do 2 assignments",
-      "status": false,
+      "status": true,
       "id": 6
+    },
+    {
+      "title": "perfect Imgur clone",
+      "description": "clone of imgur website only done with home page",
+      "status": true,
+      "id": 7
+    },
+    {
+      "title": "contest timed 1",
+      "description": "timed contest ",
+      "status": false,
+      "id": 8
     }
   ]
 }
